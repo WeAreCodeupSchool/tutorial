@@ -1,0 +1,4 @@
+platanos
+carne
+pollo
+tomates
